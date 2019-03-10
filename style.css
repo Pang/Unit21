@@ -1,0 +1,46 @@
+#headCover {
+    text-align: center;
+    color: #fff;
+    background-image: url(images/glasses.jpg)
+}
+
+#secondImg {
+    height: 800px;
+    background-image: url(images/womanBar.jpg)    
+}
+
+#title {
+    font-size: 86px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-bottom:0;
+}
+
+nav {
+    background-color: rgb(31, 31, 31);
+    text-align: center;
+    margin:auto;
+    display: inline-block;
+}
+
+footer {
+    background-color: rgb(31, 31, 31);
+}
+
+.card {
+    display: inline-block!important;
+}
+
+ul {
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+}
+
+li + li {
+    margin-left: 20px;
+}
